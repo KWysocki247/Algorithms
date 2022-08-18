@@ -1,0 +1,427 @@
+\n 343
+  3674
+' 11
+, 330
+. 154
+1 22
+3 11
+6 11
+8 11
+9 11
+A 44
+B 22
+C 33
+F 11
+G 44
+I 44
+L 22
+N 33
+P 22
+S 22
+T 44
+U 22
+W 33
+a 1386
+b 231
+c 418
+d 792
+e 2277
+f 407
+g 341
+h 1056
+i 935
+k 44
+l 561
+m 220
+n 1122
+o 1265
+p 176
+q 11
+r 1100
+s 671
+t 1694
+u 297
+v 308
+w 308
+y 220
+
+LinkedList Printing:
+(dummyNode, 0, , \n, NULL, NULL) --> 
+(dummyNode, 0, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 1, NULL, NULL) --> (1, 22, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 1, NULL, NULL) --> (1, 22, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 1, NULL, NULL) --> (1, 22, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 1, NULL, NULL) --> (1, 22, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , 1, NULL, NULL) --> (1, 22, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , 1, NULL, NULL) --> (1, 22, , A, NULL, NULL) --> (A, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , A, NULL, NULL) --> (A, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , C, NULL, NULL) --> (C, 33, , A, NULL, NULL) --> (A, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , C, NULL, NULL) --> (C, 33, , A, NULL, NULL) --> (A, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , C, NULL, NULL) --> (C, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , C, NULL, NULL) --> (C, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , C, NULL, NULL) --> (C, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , a, NULL, NULL) --> (a, 1386, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , a, NULL, NULL) --> (a, 1386, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , c, NULL, NULL) --> (c, 418, , a, NULL, NULL) --> (a, 1386, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , a, NULL, NULL) --> (a, 1386, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , h, NULL, NULL) --> (h, 1056, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , n, NULL, NULL) --> (n, 1122, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ', NULL, NULL) --> (', 11, , 3, NULL, NULL) --> (3, 11, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+
+
+BinaryTree Printing:
+(dummyNode, 0, , 6, NULL, NULL) --> (6, 11, , 8, NULL, NULL) --> (8, 11, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , C, ', 3) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , 9, NULL, NULL) --> (9, 11, , F, NULL, NULL) --> (F, 11, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , 68, ', 3) -->(68, 22,  , C, 6, 8) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , q, NULL, NULL) --> (q, 11, , 1, NULL, NULL) --> (1, 22, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , 68, ', 3) -->(68, 22,  , 9F, 6, 8) -->(9F, 22,  , C, 9, F) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , B, NULL, NULL) --> (B, 22, , L, NULL, NULL) --> (L, 22, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , 68, ', 3) -->(68, 22,  , 9F, 6, 8) -->(9F, 22,  , C, 9, F) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , ., NULL, NULL) --> (., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , P, NULL, NULL) --> (P, 22, , S, NULL, NULL) --> (S, 22, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , 68, ', 3) -->(68, 22,  , 9F, 6, 8) -->(9F, 22,  , C, 9, F) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , ., B, L) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , U, NULL, NULL) --> (U, 22, , '3, NULL, NULL) --> ('3, 22,  , 68, ', 3) -->(68, 22,  , 9F, 6, 8) -->(9F, 22,  , C, 9, F) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , ., P, S) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , 68, NULL, NULL) --> (68, 22,  , 9F, 6, 8) -->(9F, 22,  , C, 9, F) -->(C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , ., U, '3) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , C, NULL, NULL) --> (C, 33, , N, NULL, NULL) --> (N, 33, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , ., 68, 9F) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , W, NULL, NULL) --> (W, 33, , q1, NULL, NULL) --> (q1, 33,  , A, q, 1) -->(A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , CN, 68, 9F) -->(CN, 66,  , ., C, N) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , A, NULL, NULL) --> (A, 44, , G, NULL, NULL) --> (G, 44, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , CN, 68, 9F) -->(CN, 66,  , Wq1, C, N) -->(Wq1, 66,  , ., W, q1) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , I, NULL, NULL) --> (I, 44, , T, NULL, NULL) --> (T, 44, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , CN, 68, 9F) -->(CN, 66,  , Wq1, C, N) -->(Wq1, 66,  , AG, W, q1) -->(AG, 88,  , ., A, G) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , k, NULL, NULL) --> (k, 44, , BL, NULL, NULL) --> (BL, 44,  , PS, B, L) -->(PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , CN, 68, 9F) -->(CN, 66,  , Wq1, C, N) -->(Wq1, 66,  , AG, W, q1) -->(AG, 88,  , IT, A, G) -->(IT, 88,  , ., I, T) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , PS, NULL, NULL) --> (PS, 44,  , U'3, P, S) -->(U'3, 44,  , 689F, U, '3) -->(689F, 44,  , CN, 68, 9F) -->(CN, 66,  , Wq1, C, N) -->(Wq1, 66,  , AG, W, q1) -->(AG, 88,  , IT, A, G) -->(IT, 88,  , kBL, I, T) -->(kBL, 88,  , ., k, BL) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , 689F, NULL, NULL) --> (689F, 44,  , CN, 68, 9F) -->(CN, 66,  , Wq1, C, N) -->(Wq1, 66,  , AG, W, q1) -->(AG, 88,  , IT, A, G) -->(IT, 88,  , kBL, I, T) -->(kBL, 88,  , PSU'3, k, BL) -->(PSU'3, 88,  , ., PS, U'3) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , Wq1, NULL, NULL) --> (Wq1, 66,  , AG, W, q1) -->(AG, 88,  , IT, A, G) -->(IT, 88,  , kBL, I, T) -->(kBL, 88,  , PSU'3, k, BL) -->(PSU'3, 88,  , 689FCN, PS, U'3) -->(689FCN, 110,  , ., 689F, CN) -->(., 154, , p, NULL, NULL) --> (p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , IT, NULL, NULL) --> (IT, 88,  , kBL, I, T) -->(kBL, 88,  , PSU'3, k, BL) -->(PSU'3, 88,  , 689FCN, PS, U'3) -->(689FCN, 110,  , ., 689F, CN) -->(., 154, , Wq1AG, NULL, NULL) --> (Wq1AG, 154,  , p, Wq1, AG) -->(p, 176, , m, NULL, NULL) --> (m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , PSU'3, NULL, NULL) --> (PSU'3, 88,  , 689FCN, PS, U'3) -->(689FCN, 110,  , ., 689F, CN) -->(., 154, , Wq1AG, NULL, NULL) --> (Wq1AG, 154,  , p, Wq1, AG) -->(p, 176, , ITkBL, NULL, NULL) --> (ITkBL, 176,  , m, IT, kBL) -->(m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ., NULL, NULL) --> (., 154, , Wq1AG, NULL, NULL) --> (Wq1AG, 154,  , p, Wq1, AG) -->(p, 176, , ITkBL, NULL, NULL) --> (ITkBL, 176,  , PSU'3689FCN, IT, kBL) -->(PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->(m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , p, NULL, NULL) --> (p, 176, , ITkBL, NULL, NULL) --> (ITkBL, 176,  , PSU'3689FCN, IT, kBL) -->(PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->(m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , .Wq1AG, NULL, NULL) --> (.Wq1AG, 308,  , ,, ., Wq1AG) -->(,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , PSU'3689FCN, NULL, NULL) --> (PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->(m, 220, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , .Wq1AG, NULL, NULL) --> (.Wq1AG, 308,  , ,, ., Wq1AG) -->(,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , l, NULL, NULL) --> (l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , y, NULL, NULL) --> (y, 220, , b, NULL, NULL) --> (b, 231, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , .Wq1AG, NULL, NULL) --> (.Wq1AG, 308,  , ,, ., Wq1AG) -->(,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , l, PSU'3689FCN, m) -->(l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , u, NULL, NULL) --> (u, 297, , v, NULL, NULL) --> (v, 308, , w, NULL, NULL) --> (w, 308, , .Wq1AG, NULL, NULL) --> (.Wq1AG, 308,  , ,, ., Wq1AG) -->(,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , s, NULL, NULL) --> (s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , w, NULL, NULL) --> (w, 308, , .Wq1AG, NULL, NULL) --> (.Wq1AG, 308,  , ,, ., Wq1AG) -->(,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , uv, NULL, NULL) --> (uv, 605,  , s, u, v) -->(s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ,, NULL, NULL) --> (,, 330, , g, NULL, NULL) --> (g, 341, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , uv, NULL, NULL) --> (uv, 605,  , w.Wq1AG, u, v) -->(w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , d, NULL, NULL) --> (d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , \n, NULL, NULL) --> (\n, 343, , pITkBL, NULL, NULL) --> (pITkBL, 352,  , f, p, ITkBL) -->(f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , uv, NULL, NULL) --> (uv, 605,  , w.Wq1AG, u, v) -->(w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , ,g, NULL, NULL) --> (,g, 671,  , d, ,, g) -->(d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , f, NULL, NULL) --> (f, 407, , c, NULL, NULL) --> (c, 418, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , uv, NULL, NULL) --> (uv, 605,  , w.Wq1AG, u, v) -->(w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , ,g, NULL, NULL) --> (,g, 671,  , \npITkBL, ,, g) -->(\npITkBL, 695,  , d, \n, pITkBL) -->(d, 792, , i, NULL, NULL) --> (i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , PSU'3689FCNm, NULL, NULL) --> (PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->(yb, 451,  , l, y, b) -->(l, 561, , uv, NULL, NULL) --> (uv, 605,  , w.Wq1AG, u, v) -->(w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , ,g, NULL, NULL) --> (,g, 671,  , \npITkBL, ,, g) -->(\npITkBL, 695,  , d, \n, pITkBL) -->(d, 792, , fc, NULL, NULL) --> (fc, 825,  , i, f, c) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , l, NULL, NULL) --> (l, 561, , uv, NULL, NULL) --> (uv, 605,  , w.Wq1AG, u, v) -->(w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , ,g, NULL, NULL) --> (,g, 671,  , \npITkBL, ,, g) -->(\npITkBL, 695,  , d, \n, pITkBL) -->(d, 792, , fc, NULL, NULL) --> (fc, 825,  , PSU'3689FCNmyb, f, c) -->(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , o, NULL, NULL) --> (o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , w.Wq1AG, NULL, NULL) --> (w.Wq1AG, 616,  , s, w, .Wq1AG) -->(s, 671, , ,g, NULL, NULL) --> (,g, 671,  , \npITkBL, ,, g) -->(\npITkBL, 695,  , d, \n, pITkBL) -->(d, 792, , fc, NULL, NULL) --> (fc, 825,  , PSU'3689FCNmyb, f, c) -->(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , a, NULL, NULL) --> (a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , ,g, NULL, NULL) --> (,g, 671,  , \npITkBL, ,, g) -->(\npITkBL, 695,  , d, \n, pITkBL) -->(d, 792, , fc, NULL, NULL) --> (fc, 825,  , PSU'3689FCNmyb, f, c) -->(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , a, w.Wq1AG, s) -->(a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , d, NULL, NULL) --> (d, 792, , fc, NULL, NULL) --> (fc, 825,  , PSU'3689FCNmyb, f, c) -->(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , t, NULL, NULL) --> (t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , PSU'3689FCNmyb, NULL, NULL) --> (PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->(i, 935, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , e, NULL, NULL) --> (e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , h, NULL, NULL) --> (h, 1056, , r, NULL, NULL) --> (r, 1100, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , e, PSU'3689FCNmyb, i) -->(e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , n, NULL, NULL) --> (n, 1122, , luv, NULL, NULL) --> (luv, 1166,  , o, l, uv) -->(o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->(hr, 2156,  , e, h, r) -->(e, 2277, ,  , NULL, NULL) --> 
+(dummyNode, 0, , o, NULL, NULL) --> (o, 1265, , w.Wq1AGs, NULL, NULL) --> (w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->(hr, 2156,  , e, h, r) -->(e, 2277, , nluv, NULL, NULL) --> (nluv, 2288,  ,  , n, luv) -->
+(dummyNode, 0, , ,g\npITkBL, NULL, NULL) --> (,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->(a, 1386, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->(hr, 2156,  , e, h, r) -->(e, 2277, , nluv, NULL, NULL) --> (nluv, 2288,  , ow.Wq1AGs, n, luv) -->(ow.Wq1AGs, 2552,  ,  , o, w.Wq1AGs) -->
+(dummyNode, 0, , dfc, NULL, NULL) --> (dfc, 1617,  , t, d, fc) -->(t, 1694, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->(hr, 2156,  , e, h, r) -->(e, 2277, , nluv, NULL, NULL) --> (nluv, 2288,  , ow.Wq1AGs, n, luv) -->(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->(,g\npITkBLa, 2752,  ,  , ,g\npITkBL, a) -->
+(dummyNode, 0, , PSU'3689FCNmybi, NULL, NULL) --> (PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->(hr, 2156,  , e, h, r) -->(e, 2277, , nluv, NULL, NULL) --> (nluv, 2288,  , ow.Wq1AGs, n, luv) -->(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->(dfct, 3311,  ,  , dfc, t) -->
+(dummyNode, 0, , e, NULL, NULL) --> (e, 2277, , nluv, NULL, NULL) --> (nluv, 2288,  , ow.Wq1AGs, n, luv) -->(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->(dfct, 3311,  ,  , dfc, t) -->( , 3674, , PSU'3689FCNmybihr, NULL, NULL) --> 
+(dummyNode, 0, , ow.Wq1AGs, NULL, NULL) --> (ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->(dfct, 3311,  ,  , dfc, t) -->( , 3674, , PSU'3689FCNmybihr, NULL, NULL) --> (PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->
+(dummyNode, 0, , dfct, NULL, NULL) --> (dfct, 3311,  ,  , dfc, t) -->( , 3674, , PSU'3689FCNmybihr, NULL, NULL) --> (PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->(enluv, 4565,  , ow.Wq1AGs,g\npITkBLa, e, nluv) -->
+(dummyNode, 0, , PSU'3689FCNmybihr, NULL, NULL) --> (PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->(enluv, 4565,  , ow.Wq1AGs,g\npITkBLa, e, nluv) -->(ow.Wq1AGs,g\npITkBLa, 5304,  , dfct , ow.Wq1AGs, ,g\npITkBLa) -->
+(dummyNode, 0, , ow.Wq1AGs,g\npITkBLa, NULL, NULL) --> (ow.Wq1AGs,g\npITkBLa, 5304,  , dfct , ow.Wq1AGs, ,g\npITkBLa) -->(dfct , 6985,  , PSU'3689FCNmybihrenluv, dfct,  ) -->
+(dummyNode, 0, , PSU'3689FCNmybihrenluv, NULL, NULL) --> (PSU'3689FCNmybihrenluv, 8525,  , ow.Wq1AGs,g\npITkBLadfct , PSU'3689FCNmybihr, enluv) -->
+(dummyNode, 0, , PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , NULL, NULL) --> 
+
+
+Now printing Sorted LinkedList:
+(dummyNode, 0, , PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , NULL, NULL) --> 
+
+PreOrder Traversal:
+(PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , 20814,  , NULL, PSU'3689FCNmybihrenluv, ow.Wq1AGs,g\npITkBLadfct ) -->
+(PSU'3689FCNmybihrenluv, 8525,  , ow.Wq1AGs,g\npITkBLadfct , PSU'3689FCNmybihr, enluv) -->
+(PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->
+(PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->
+(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->
+(PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->
+(PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->
+(PSU'3, 88,  , 689FCN, PS, U'3) -->
+(PS, 44,  , U'3, P, S) -->
+(P, 22, 000000000, S, NULL, NULL) --> 
+(S, 22, 000000001, U, NULL, NULL) --> 
+(U'3, 44,  , 689F, U, '3) -->
+(U, 22, 000000010, '3, NULL, NULL) --> 
+('3, 22,  , 68, ', 3) -->
+(', 11, 0000000110, 3, NULL, NULL) --> 
+(3, 11, 0000000111, 6, NULL, NULL) --> 
+(689FCN, 110,  , ., 689F, CN) -->
+(689F, 44,  , CN, 68, 9F) -->
+(68, 22,  , 9F, 6, 8) -->
+(6, 11, 0000001000, 8, NULL, NULL) --> 
+(8, 11, 0000001001, 9, NULL, NULL) --> 
+(9F, 22,  , C, 9, F) -->
+(9, 11, 0000001010, F, NULL, NULL) --> 
+(F, 11, 0000001011, q, NULL, NULL) --> 
+(CN, 66,  , Wq1, C, N) -->
+(C, 33, 000000110, N, NULL, NULL) --> 
+(N, 33, 000000111, W, NULL, NULL) --> 
+(m, 220, 000001, y, NULL, NULL) --> 
+(yb, 451,  , l, y, b) -->
+(y, 220, 000010, b, NULL, NULL) --> 
+(b, 231, 000011, u, NULL, NULL) --> 
+(i, 935, 0001, h, NULL, NULL) --> 
+(hr, 2156,  , e, h, r) -->
+(h, 1056, 0010, r, NULL, NULL) --> 
+(r, 1100, 0011, n, NULL, NULL) --> 
+(enluv, 4565,  , ow.Wq1AGs,g\npITkBLa, e, nluv) -->
+(e, 2277, 010, nluv, NULL, NULL) --> 
+(nluv, 2288,  , ow.Wq1AGs, n, luv) -->
+(n, 1122, 0110, luv, NULL, NULL) --> 
+(luv, 1166,  , o, l, uv) -->
+(l, 561, 01110, uv, NULL, NULL) --> 
+(uv, 605,  , w.Wq1AG, u, v) -->
+(u, 297, 011110, v, NULL, NULL) --> 
+(v, 308, 011111, w, NULL, NULL) --> 
+(ow.Wq1AGs,g\npITkBLadfct , 12289,  , PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , ow.Wq1AGs,g\npITkBLa, dfct ) -->
+(ow.Wq1AGs,g\npITkBLa, 5304,  , dfct , ow.Wq1AGs, ,g\npITkBLa) -->
+(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->
+(o, 1265, 1000, w.Wq1AGs, NULL, NULL) --> 
+(w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->
+(w.Wq1AG, 616,  , s, w, .Wq1AG) -->
+(w, 308, 100100, .Wq1AG, NULL, NULL) --> 
+(.Wq1AG, 308,  , ,, ., Wq1AG) -->
+(., 154, 1001010, Wq1AG, NULL, NULL) --> 
+(Wq1AG, 154,  , p, Wq1, AG) -->
+(Wq1, 66,  , AG, W, q1) -->
+(W, 33, 100101100, q1, NULL, NULL) --> 
+(q1, 33,  , A, q, 1) -->
+(q, 11, 1001011010, 1, NULL, NULL) --> 
+(1, 22, 1001011011, B, NULL, NULL) --> 
+(AG, 88,  , IT, A, G) -->
+(A, 44, 100101110, G, NULL, NULL) --> 
+(G, 44, 100101111, I, NULL, NULL) --> 
+(s, 671, 10011, ,g, NULL, NULL) --> 
+(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->
+(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->
+(,g, 671,  , \npITkBL, ,, g) -->
+(,, 330, 101000, g, NULL, NULL) --> 
+(g, 341, 101001, \n, NULL, NULL) --> 
+(\npITkBL, 695,  , d, \n, pITkBL) -->
+(\n, 343, 101010, pITkBL, NULL, NULL) --> 
+(pITkBL, 352,  , f, p, ITkBL) -->
+(p, 176, 1010110, ITkBL, NULL, NULL) --> 
+(ITkBL, 176,  , PSU'3689FCN, IT, kBL) -->
+(IT, 88,  , kBL, I, T) -->
+(I, 44, 101011100, T, NULL, NULL) --> 
+(T, 44, 101011101, k, NULL, NULL) --> 
+(kBL, 88,  , PSU'3, k, BL) -->
+(k, 44, 101011110, BL, NULL, NULL) --> 
+(BL, 44,  , PS, B, L) -->
+(B, 22, 1010111110, L, NULL, NULL) --> 
+(L, 22, 1010111111, P, NULL, NULL) --> 
+(a, 1386, 1011, dfc, NULL, NULL) --> 
+(dfct , 6985,  , PSU'3689FCNmybihrenluv, dfct,  ) -->
+(dfct, 3311,  ,  , dfc, t) -->
+(dfc, 1617,  , t, d, fc) -->
+(d, 792, 11000, fc, NULL, NULL) --> 
+(fc, 825,  , PSU'3689FCNmyb, f, c) -->
+(f, 407, 110010, c, NULL, NULL) --> 
+(c, 418, 110011, PSU'3689FCNm, NULL, NULL) --> 
+(t, 1694, 1101, PSU'3689FCNmybi, NULL, NULL) --> 
+( , 3674, 111, PSU'3689FCNmybihr, NULL, NULL) --> 
+
+
+InOrder Traversal:
+(P, 22, 000000000, S, NULL, NULL) --> 
+(PS, 44,  , U'3, P, S) -->
+(S, 22, 000000001, U, NULL, NULL) --> 
+(PSU'3, 88,  , 689FCN, PS, U'3) -->
+(U, 22, 000000010, '3, NULL, NULL) --> 
+(U'3, 44,  , 689F, U, '3) -->
+(', 11, 0000000110, 3, NULL, NULL) --> 
+('3, 22,  , 68, ', 3) -->
+(3, 11, 0000000111, 6, NULL, NULL) --> 
+(PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->
+(6, 11, 0000001000, 8, NULL, NULL) --> 
+(68, 22,  , 9F, 6, 8) -->
+(8, 11, 0000001001, 9, NULL, NULL) --> 
+(689F, 44,  , CN, 68, 9F) -->
+(9, 11, 0000001010, F, NULL, NULL) --> 
+(9F, 22,  , C, 9, F) -->
+(F, 11, 0000001011, q, NULL, NULL) --> 
+(689FCN, 110,  , ., 689F, CN) -->
+(C, 33, 000000110, N, NULL, NULL) --> 
+(CN, 66,  , Wq1, C, N) -->
+(N, 33, 000000111, W, NULL, NULL) --> 
+(PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->
+(m, 220, 000001, y, NULL, NULL) --> 
+(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->
+(y, 220, 000010, b, NULL, NULL) --> 
+(yb, 451,  , l, y, b) -->
+(b, 231, 000011, u, NULL, NULL) --> 
+(PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->
+(i, 935, 0001, h, NULL, NULL) --> 
+(PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->
+(h, 1056, 0010, r, NULL, NULL) --> 
+(hr, 2156,  , e, h, r) -->
+(r, 1100, 0011, n, NULL, NULL) --> 
+(PSU'3689FCNmybihrenluv, 8525,  , ow.Wq1AGs,g\npITkBLadfct , PSU'3689FCNmybihr, enluv) -->
+(e, 2277, 010, nluv, NULL, NULL) --> 
+(enluv, 4565,  , ow.Wq1AGs,g\npITkBLa, e, nluv) -->
+(n, 1122, 0110, luv, NULL, NULL) --> 
+(nluv, 2288,  , ow.Wq1AGs, n, luv) -->
+(l, 561, 01110, uv, NULL, NULL) --> 
+(luv, 1166,  , o, l, uv) -->
+(u, 297, 011110, v, NULL, NULL) --> 
+(uv, 605,  , w.Wq1AG, u, v) -->
+(v, 308, 011111, w, NULL, NULL) --> 
+(PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , 20814,  , NULL, PSU'3689FCNmybihrenluv, ow.Wq1AGs,g\npITkBLadfct ) -->
+(o, 1265, 1000, w.Wq1AGs, NULL, NULL) --> 
+(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->
+(w, 308, 100100, .Wq1AG, NULL, NULL) --> 
+(w.Wq1AG, 616,  , s, w, .Wq1AG) -->
+(., 154, 1001010, Wq1AG, NULL, NULL) --> 
+(.Wq1AG, 308,  , ,, ., Wq1AG) -->
+(W, 33, 100101100, q1, NULL, NULL) --> 
+(Wq1, 66,  , AG, W, q1) -->
+(q, 11, 1001011010, 1, NULL, NULL) --> 
+(q1, 33,  , A, q, 1) -->
+(1, 22, 1001011011, B, NULL, NULL) --> 
+(Wq1AG, 154,  , p, Wq1, AG) -->
+(A, 44, 100101110, G, NULL, NULL) --> 
+(AG, 88,  , IT, A, G) -->
+(G, 44, 100101111, I, NULL, NULL) --> 
+(w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->
+(s, 671, 10011, ,g, NULL, NULL) --> 
+(ow.Wq1AGs,g\npITkBLa, 5304,  , dfct , ow.Wq1AGs, ,g\npITkBLa) -->
+(,, 330, 101000, g, NULL, NULL) --> 
+(,g, 671,  , \npITkBL, ,, g) -->
+(g, 341, 101001, \n, NULL, NULL) --> 
+(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->
+(\n, 343, 101010, pITkBL, NULL, NULL) --> 
+(\npITkBL, 695,  , d, \n, pITkBL) -->
+(p, 176, 1010110, ITkBL, NULL, NULL) --> 
+(pITkBL, 352,  , f, p, ITkBL) -->
+(I, 44, 101011100, T, NULL, NULL) --> 
+(IT, 88,  , kBL, I, T) -->
+(T, 44, 101011101, k, NULL, NULL) --> 
+(ITkBL, 176,  , PSU'3689FCN, IT, kBL) -->
+(k, 44, 101011110, BL, NULL, NULL) --> 
+(kBL, 88,  , PSU'3, k, BL) -->
+(B, 22, 1010111110, L, NULL, NULL) --> 
+(BL, 44,  , PS, B, L) -->
+(L, 22, 1010111111, P, NULL, NULL) --> 
+(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->
+(a, 1386, 1011, dfc, NULL, NULL) --> 
+(ow.Wq1AGs,g\npITkBLadfct , 12289,  , PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , ow.Wq1AGs,g\npITkBLa, dfct ) -->
+(d, 792, 11000, fc, NULL, NULL) --> 
+(dfc, 1617,  , t, d, fc) -->
+(f, 407, 110010, c, NULL, NULL) --> 
+(fc, 825,  , PSU'3689FCNmyb, f, c) -->
+(c, 418, 110011, PSU'3689FCNm, NULL, NULL) --> 
+(dfct, 3311,  ,  , dfc, t) -->
+(t, 1694, 1101, PSU'3689FCNmybi, NULL, NULL) --> 
+(dfct , 6985,  , PSU'3689FCNmybihrenluv, dfct,  ) -->
+( , 3674, 111, PSU'3689FCNmybihr, NULL, NULL) --> 
+
+
+PostOrder Traversal:
+(P, 22, 000000000, S, NULL, NULL) --> 
+(S, 22, 000000001, U, NULL, NULL) --> 
+(PS, 44,  , U'3, P, S) -->
+(U, 22, 000000010, '3, NULL, NULL) --> 
+(', 11, 0000000110, 3, NULL, NULL) --> 
+(3, 11, 0000000111, 6, NULL, NULL) --> 
+('3, 22,  , 68, ', 3) -->
+(U'3, 44,  , 689F, U, '3) -->
+(PSU'3, 88,  , 689FCN, PS, U'3) -->
+(6, 11, 0000001000, 8, NULL, NULL) --> 
+(8, 11, 0000001001, 9, NULL, NULL) --> 
+(68, 22,  , 9F, 6, 8) -->
+(9, 11, 0000001010, F, NULL, NULL) --> 
+(F, 11, 0000001011, q, NULL, NULL) --> 
+(9F, 22,  , C, 9, F) -->
+(689F, 44,  , CN, 68, 9F) -->
+(C, 33, 000000110, N, NULL, NULL) --> 
+(N, 33, 000000111, W, NULL, NULL) --> 
+(CN, 66,  , Wq1, C, N) -->
+(689FCN, 110,  , ., 689F, CN) -->
+(PSU'3689FCN, 198,  , m, PSU'3, 689FCN) -->
+(m, 220, 000001, y, NULL, NULL) --> 
+(PSU'3689FCNm, 418,  , yb, PSU'3689FCN, m) -->
+(y, 220, 000010, b, NULL, NULL) --> 
+(b, 231, 000011, u, NULL, NULL) --> 
+(yb, 451,  , l, y, b) -->
+(PSU'3689FCNmyb, 869,  , i, PSU'3689FCNm, yb) -->
+(i, 935, 0001, h, NULL, NULL) --> 
+(PSU'3689FCNmybi, 1804,  , hr, PSU'3689FCNmyb, i) -->
+(h, 1056, 0010, r, NULL, NULL) --> 
+(r, 1100, 0011, n, NULL, NULL) --> 
+(hr, 2156,  , e, h, r) -->
+(PSU'3689FCNmybihr, 3960,  , enluv, PSU'3689FCNmybi, hr) -->
+(e, 2277, 010, nluv, NULL, NULL) --> 
+(n, 1122, 0110, luv, NULL, NULL) --> 
+(l, 561, 01110, uv, NULL, NULL) --> 
+(u, 297, 011110, v, NULL, NULL) --> 
+(v, 308, 011111, w, NULL, NULL) --> 
+(uv, 605,  , w.Wq1AG, u, v) -->
+(luv, 1166,  , o, l, uv) -->
+(nluv, 2288,  , ow.Wq1AGs, n, luv) -->
+(enluv, 4565,  , ow.Wq1AGs,g\npITkBLa, e, nluv) -->
+(PSU'3689FCNmybihrenluv, 8525,  , ow.Wq1AGs,g\npITkBLadfct , PSU'3689FCNmybihr, enluv) -->
+(o, 1265, 1000, w.Wq1AGs, NULL, NULL) --> 
+(w, 308, 100100, .Wq1AG, NULL, NULL) --> 
+(., 154, 1001010, Wq1AG, NULL, NULL) --> 
+(W, 33, 100101100, q1, NULL, NULL) --> 
+(q, 11, 1001011010, 1, NULL, NULL) --> 
+(1, 22, 1001011011, B, NULL, NULL) --> 
+(q1, 33,  , A, q, 1) -->
+(Wq1, 66,  , AG, W, q1) -->
+(A, 44, 100101110, G, NULL, NULL) --> 
+(G, 44, 100101111, I, NULL, NULL) --> 
+(AG, 88,  , IT, A, G) -->
+(Wq1AG, 154,  , p, Wq1, AG) -->
+(.Wq1AG, 308,  , ,, ., Wq1AG) -->
+(w.Wq1AG, 616,  , s, w, .Wq1AG) -->
+(s, 671, 10011, ,g, NULL, NULL) --> 
+(w.Wq1AGs, 1287,  , ,g\npITkBL, w.Wq1AG, s) -->
+(ow.Wq1AGs, 2552,  , ,g\npITkBLa, o, w.Wq1AGs) -->
+(,, 330, 101000, g, NULL, NULL) --> 
+(g, 341, 101001, \n, NULL, NULL) --> 
+(,g, 671,  , \npITkBL, ,, g) -->
+(\n, 343, 101010, pITkBL, NULL, NULL) --> 
+(p, 176, 1010110, ITkBL, NULL, NULL) --> 
+(I, 44, 101011100, T, NULL, NULL) --> 
+(T, 44, 101011101, k, NULL, NULL) --> 
+(IT, 88,  , kBL, I, T) -->
+(k, 44, 101011110, BL, NULL, NULL) --> 
+(B, 22, 1010111110, L, NULL, NULL) --> 
+(L, 22, 1010111111, P, NULL, NULL) --> 
+(BL, 44,  , PS, B, L) -->
+(kBL, 88,  , PSU'3, k, BL) -->
+(ITkBL, 176,  , PSU'3689FCN, IT, kBL) -->
+(pITkBL, 352,  , f, p, ITkBL) -->
+(\npITkBL, 695,  , d, \n, pITkBL) -->
+(,g\npITkBL, 1366,  , a, ,g, \npITkBL) -->
+(a, 1386, 1011, dfc, NULL, NULL) --> 
+(,g\npITkBLa, 2752,  , dfct, ,g\npITkBL, a) -->
+(ow.Wq1AGs,g\npITkBLa, 5304,  , dfct , ow.Wq1AGs, ,g\npITkBLa) -->
+(d, 792, 11000, fc, NULL, NULL) --> 
+(f, 407, 110010, c, NULL, NULL) --> 
+(c, 418, 110011, PSU'3689FCNm, NULL, NULL) --> 
+(fc, 825,  , PSU'3689FCNmyb, f, c) -->
+(dfc, 1617,  , t, d, fc) -->
+(t, 1694, 1101, PSU'3689FCNmybi, NULL, NULL) --> 
+(dfct, 3311,  ,  , dfc, t) -->
+( , 3674, 111, PSU'3689FCNmybihr, NULL, NULL) --> 
+(dfct , 6985,  , PSU'3689FCNmybihrenluv, dfct,  ) -->
+(ow.Wq1AGs,g\npITkBLadfct , 12289,  , PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , ow.Wq1AGs,g\npITkBLa, dfct ) -->
+(PSU'3689FCNmybihrenluvow.Wq1AGs,g\npITkBLadfct , 20814,  , NULL, PSU'3689FCNmybihrenluv, ow.Wq1AGs,g\npITkBLadfct ) -->

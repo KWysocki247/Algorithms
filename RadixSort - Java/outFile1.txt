@@ -1,0 +1,12 @@
+Table [0][65]: (dummyNode, AAbb   ) -->(AAbb   , AbCdEfG) -->(AbCdEfG, Acc    ) -->(Acc    , NULL) --> NULL
+Table [0][66]: (dummyNode, BbAa   ) -->(BbAa   , Bdd    ) -->(Bdd    , NULL) --> NULL
+Table [0][67]: (dummyNode, CcaabB ) -->(CcaabB , NULL) --> NULL
+Table [0][72]: (dummyNode, Hijk   ) -->(Hijk   , NULL) --> NULL
+Table [0][88]: (dummyNode, XyZzz  ) -->(XyZzz  , NULL) --> NULL
+Table [0][90]: (dummyNode, ZZZZ   ) -->(ZZZZ   , NULL) --> NULL
+Table [0][97]: (dummyNode, aA     ) -->(aA     , acc    ) -->(acc    , NULL) --> NULL
+Table [0][98]: (dummyNode, bggff  ) -->(bggff  , NULL) --> NULL
+Table [0][99]: (dummyNode, cCaAbb ) -->(cCaAbb , NULL) --> NULL
+Table [0][106]: (dummyNode, jIJkL  ) -->(jIJkL  , NULL) --> NULL
+Table [0][120]: (dummyNode, xyyk   ) -->(xyyk   , NULL) --> NULL
+Table [0][122]: (dummyNode, zxcccc ) -->(zxcccc , NULL) --> NULL
